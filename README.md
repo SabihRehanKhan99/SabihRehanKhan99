@@ -1,3 +1,5 @@
+---
+
 # 👋 Hi, I'm Sabih Rehan Khan
 
 🚀 **Data Engineer | Analytics Engineer | BI Specialist**
@@ -8,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-I’m a Data Engineer and Analytics Engineer with **3+ years of experience** building scalable data platforms and enterprise analytics solutions across **e-commerce, logistics, retail, and fintech**.
+I’m a **Data Engineer and Analytics Engineer with 3+ years of experience** building scalable data platforms and enterprise analytics solutions across **e-commerce, logistics, retail, and finance**.
 
-I specialize in designing **end-to-end ETL/ELT pipelines**, **Lakehouse architectures**, and **high-performance BI models** that turn raw data into reliable, decision-ready insights used by business, finance, and operations teams.
+I specialize in designing **end-to-end ETL/ELT pipelines**, **Lakehouse architectures**, and **high-performance BI models** that transform raw data into reliable, decision-ready insights for business, finance, and operations teams.
 
-Currently working as a **Senior Data Engineer**, where I process **hundreds of millions of events**, optimize data models, and enable analytics teams through automation and modern data engineering practices.
+Currently working as a **Senior Data Engineer**, processing **hundreds of millions of events**, optimizing data models, and enabling analytics teams through automation, CI/CD, and modern data engineering practices.
 
 ---
 
@@ -47,27 +49,27 @@ Currently working as a **Senior Data Engineer**, where I process **hundreds of m
 
 ## 📊 What I Work On
 
-* ⚙️ Building scalable **ETL/ELT pipelines**
-* 🧱 Designing **star-schema & fact/dimension models**
-* 📈 Developing **KPI-driven Power BI dashboards**
-* 🚀 Optimizing **data performance & refresh times**
-* 🔄 Automating reporting & analytics workflows
+* ⚙️ Scalable **ETL/ELT pipelines**
+* 🧱 **Star-schema & fact/dimension** data modeling
+* 📈 **KPI-driven Power BI dashboards**
+* 🚀 Data & report **performance optimization**
+* 🔄 Reporting & analytics **automation**
 * 🧪 Analytics Engineering & Lakehouse design
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Work
 
 * **Databricks Lakehouse Platform**
-  Processing 500M+ events using Spark, Delta Lake, and SQL for enterprise analytics.
+  Large-scale Spark & Delta Lake pipelines processing 500M+ events for enterprise analytics.
 
 * **Logistics & Fintech BI Ecosystem**
-  20+ Power BI dashboards covering fleet utilization, risk, revenue, and operations.
+  20+ Power BI dashboards covering fleet utilization, risk, revenue, finance, and operations.
 
 * **Cloud ETL Pipelines**
   Event-driven and batch pipelines using AWS, Azure, and Snowflake.
 
-*(More detailed project repos coming soon 🚧)*
+*(More detailed project repositories coming soon 🚧)*
 
 ---
 
@@ -83,23 +85,17 @@ Currently working as a **Senior Data Engineer**, where I process **hundreds of m
 
 ## 🤝 Let’s Connect
 
-* 💼 LinkedIn: *add your link*
-* 🌐 Portfolio: *add your site*
-* 📫 Email: **[sabihrehan16@gmail.com](mailto:sabihrehan16@gmail.com)**
+* 💼 **LinkedIn:**
+  [https://pk.linkedin.com/in/sabih-rehan-khan-ab431b373](https://pk.linkedin.com/in/sabih-rehan-khan-ab431b373)
+
+* 🌐 **Portfolio / Website:**
+  [https://sabihrehan.carrd.co/](https://sabihrehan.carrd.co/)
+
+* 📫 **Email:**
+  [sabihrehan16@gmail.com](mailto:sabihrehan16@gmail.com)
 
 ---
 
-⭐ *Always learning, always building, always optimizing data systems.*
+⭐ *Always building scalable data systems. Always optimizing analytics.*
 
 ---
-
-### ✅ Next (Highly Recommended)
-
-If you want, I can:
-
-* Customize this **to exactly match sarimkd’s tone line-by-line**
-* Add **GitHub stats, badges, and icons**
-* Suggest **which repos to pin** so recruiters instantly “get” your profile
-* Rewrite it for **EU recruiter expectations**
-
-Just say the word.
