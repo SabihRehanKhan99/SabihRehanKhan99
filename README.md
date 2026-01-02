@@ -1,10 +1,3 @@
-Got it 👍 — thanks for the patience.
-You want a **GitHub profile README.md**, **similar in structure and vibe** to the **introductory README on sarimkd’s GitHub**, but **100% tailored to YOU and your CV**.
-
-Below is a **ready-to-paste `README.md`** you can put in a repo named exactly **`sabihrehan`** (same name as your GitHub username). GitHub will automatically show it on your profile.
-
----
-
 # 👋 Hi, I'm Sabih Rehan Khan
 
 🚀 **Data Engineer | Analytics Engineer | BI Specialist**
